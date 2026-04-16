@@ -5,7 +5,7 @@ Um jogo de Sudoku interativo desenvolvido para desafiar o raciocínio lógico e 
 🚀 Demonstração
 
 🔗 Acesse o jogo:
-(Coloque aqui o link, ex: GitHub Pages ou Vercel)
+((https://gersonpedroso.github.io/Sudoku-master/))
 
 🛠️ Tecnologias utilizadas
 
